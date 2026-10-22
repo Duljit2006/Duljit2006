@@ -1,25 +1,195 @@
-<h1 align="center">Hi 👋, I'm DULJIT!</h1>
-<h3 align="center">A passionate Full Stack Web and App Developer || Machine Learning Developer</h3>
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=220&section=header&text=Hi%20👋,%20I'm%20DULJIT!&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%26%20App%20Developer%20%7C%20Machine%20Learning%20%7C%20Community%20Lead&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 
-<h3 align="left">About me:</h3>
-- 🔭 I’m currently working on **a GNN based image compression Technology**
+  <!-- ANIMATED TYPING SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines= Campus+Organizer+%40+GDGoC+Gauhati+University+%F0%9F%9A%80;Building+Full+Stack+Web+%26+Cross-Platform+Apps+%F0%9F%92%BB;Exploring+Graph+Neural+Networks+%26+Computer+Vision+%F0%9F%A7%A0;Tinkering+with+Hardware%2C+IoT+%26+3D+Design+%F0%9F%A4%96" alt="Typing SVG" />
+  </a>
 
-- 🌱 I’m currently learning **GNN and Image Processing**
+  <br/>
 
-- 📫 How to reach me **duljit.guist@gmail.com**
+  <!-- HIGHLIGHT & SOCIAL BADGES -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/GDGoC_Gauhati_University-Campus_Organizer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDGoC Organizer" />
+    <a href="https://linkedin.com/in/duljit-lalung-8b8a51411" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:duljit.guist@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-- ⚡ Fun fact **I think I am Funny**
+<hr/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/duljit-lalung-8b8a51411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duljit-lalung-8b8a51411" height="30" width="40" /></a>
-</p>
+<!-- SIDE-BY-SIDE ABOUT ME & LOFI ANIME GIF -->
+<table border="0" width="100%">
+  <tr>
+    <td width="58%" valign="middle">
+      <h3>✨ About Me</h3>
+      <ul>
+        <li>🏛️ <b>Leadership:</b> Serving as the <b>Campus Organizer for Google Developer Groups on Campus (GDGoC)</b> at <b>Gauhati University</b>.</li>
+        <li>🔭 <b>Current Focus:</b> Working on a <b>GNN-based Image Compression Technology</b>.</li>
+        <li>🌱 <b>Currently Learning:</b> Deepening my stack in <b>Graph Neural Networks (GNN) & Digital Image Processing</b>.</li>
+        <li>🛠️ <b>Builder at Heart:</b> Bridging the gap between <b>Full-Stack Applications, Machine Learning, and Hardware/IoT</b>.</li>
+        <li>📫 <b>Reach me at:</b> <a href="mailto:duljit.guist@gmail.com"><b>duljit.guist@gmail.com</b></a></li>
+        <li>⚡ <b>Fun Fact:</b> <i>I think I am Funny (still waiting for peer review).</i></li>
+      </ul>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <!-- LOFI ANIME CODING GIF -->
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius: 12px;" alt="Lo-Fi Anime Coding Aesthetic" />
+      <sub align="center"><i>☕ Late night lo-fi & code compilation sessions</i></sub>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duljit2006&show_icons=true&locale=en&layout=compact" alt="duljit2006" /></p>
+<!-- ALWAYS-VISIBLE + INTERACTIVE TECH ARSENAL -->
+<h2 align="center">🛠️ Tech Arsenal & Tools</h2>
+<p align="center"><i>All icons are live & clickable. Click the interactive toggles below each category to inspect my workflow!</i></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duljit2006&show_icons=true&locale=en" alt="duljit2006" /></p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🌐 Full-Stack Web & Cross-Platform App</h4>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,nestjs,django,flutter,dart,androidstudio&perline=8" alt="Web and App Stack" />
+        </a>
+      </p>
+      <details>
+        <summary><b>⚡ Click to inspect Web & Mobile workflow</b></summary>
+        <br/>
+        <ul>
+          <li><b>Frontend & UI:</b> React.js, Next.js, TailwindCSS, Bootstrap, Framer, Chart.js, D3.js</li>
+          <li><b>Mobile Dev:</b> Flutter, React Native, Dart, Native Android</li>
+          <li><b>Backend & APIs:</b> Node.js, Express, NestJS, Django</li>
+        </ul>
+      </details>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🧠 Machine Learning, Data & Vision</h4>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,matlab,c,cpp&perline=8" alt="ML and Vision Stack" />
+        </a>
+        <br/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/GNN-Graph_Neural_Nets-FF6F00?style=flat-square" />
+      </p>
+      <details>
+        <summary><b>⚡ Click to inspect AI/ML & Vision workflow</b></summary>
+        <br/>
+        <ul>
+          <li><b>Deep Learning:</b> PyTorch, TensorFlow, Graph Neural Networks (GNN)</li>
+          <li><b>Image Processing:</b> OpenCV, MATLAB, Custom Compression Pipelines</li>
+          <li><b>Data Science:</b> Scikit-Learn, Pandas, Seaborn</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">☁️ Cloud, Databases & Hardware</h4>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,gcp,aws,docker,linux,git,arduino&perline=8" alt="Cloud DB and Hardware" />
+        </a>
+      </p>
+      <details>
+        <summary><b>⚡ Click to inspect Infrastructure & IoT workflow</b></summary>
+        <br/>
+        <ul>
+          <li><b>Databases:</b> MongoDB, MySQL, Oracle, Firebase</li>
+          <li><b>Cloud & DevOps:</b> Google Cloud Platform (GCP), AWS, Docker, Linux, Git</li>
+          <li><b>Embedded & IoT:</b> Arduino, C/C++ Microcontroller Programming</li>
+        </ul>
+      </details>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🎨 3D Modeling, UI/UX & Creative Suite</h4>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=blender,figma,ps,ai&perline=8" alt="Creative Stack" />
+        </a>
+      </p>
+      <details>
+        <summary><b>⚡ Click to inspect Design & 3D workflow</b></summary>
+        <br/>
+        <ul>
+          <li><b>3D & Animation:</b> Blender (Modeling, Rigging & Rendering)</li>
+          <li><b>UI/UX Prototyping:</b> Figma, Framer</li>
+          <li><b>Vector & Raster Graphics:</b> Adobe Photoshop, Adobe Illustrator</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duljit2006&" alt="duljit2006" /></p>
+<hr/>
+
+<!-- PLAYABLE RETRO ARCADE CORNER -->
+<div align="center">
+  <h2>🕹️ Duljit's Retro Arcade Corner</h2>
+  <p><i>Need a break from scrolling code? Pick a cartridge below to launch a live playable game right in your browser!</i></p>
+
+  <table border="0" width="85%">
+    <tr>
+      <td align="center" width="35%">
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" style="border-radius: 10px;" alt="Arcade Pixel Art" />
+      </td>
+      <td align="center" width="65%">
+        <h4>🪙 INSERT COIN TO PLAY LIVE</h4>
+        <p>
+          <a href="https://freepacman.org/" target="_blank">
+            <img src="https://img.shields.io/badge/🕹️_PLAY_PAC--MAN-INSERT_COIN-FFD700?style=for-the-badge&labelColor=000000" alt="Play Pac-Man" />
+          </a>
+        </p>
+        <p>
+          <a href="https://chvin.github.io/react-tetris/?lan=en" target="_blank">
+            <img src="https://img.shields.io/badge/🧱_PLAY_RETRO_TETRIS-START_GAME-FF0055?style=for-the-badge&labelColor=000000" alt="Play Tetris" />
+          </a>
+        </p>
+        <p>
+          <a href="https://hextris.io/" target="_blank">
+            <img src="https://img.shields.io/badge/⬢_PLAY_HEXTRIS-LAUNCH_ARCADE-00F0FF?style=for-the-badge&labelColor=000000" alt="Play Hextris" />
+          </a>
+        </p>
+        <details>
+          <summary><b>🎮 Secret Cheat Code (Click to Unlock)</b></summary>
+          <p><code>⬆️ ⬆️ ⬇️ ⬇️ ⬅️ ➡️ ⬅️ ➡️ B A START</code> — <i>+100 Debugging Speed granted for your next commit!</i></p>
+        </details>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<hr/>
+
+<!-- GITHUB STATS & TROPHIES -->
+<h2 align="center">📊 GitHub Analytics & Trophies</h2>
+
+<div align="center">
+  <!-- TROPHIES (With Cache-Buster & Dark Theme) -->
+  <p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=Duljit2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&v=2" width="100%" alt="Duljit2006 Trophies" />
+    </a>
+  </p>
+
+  <!-- STATS & STREAK SIDE BY SIDE -->
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=duljit2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Duljit's GitHub Stats" />
+  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=duljit2006&theme=tokyonight&hide_border=true" alt="Duljit's GitHub Streak" />
+
+  <br/>
+
+  <!-- TOP LANGUAGES -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=duljit2006&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Duljit's Top Languages" />
+</div>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=110&section=footer" width="100%" alt="Footer Wave" />
