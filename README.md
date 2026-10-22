@@ -38,7 +38,7 @@
         <li>🌱 <b>Currently Learning:</b> Deepening my stack in <b>Graph Neural Networks (GNN) & Digital Image Processing</b>.</li>
         <li>🛠️ <b>Builder at Heart:</b> Bridging the gap between <b>Full-Stack Applications, Machine Learning, and Hardware/IoT</b>.</li>
         <li>📫 <b>Reach me at:</b> <a href="mailto:duljit.guist@gmail.com"><b>duljit.guist@gmail.com</b></a></li>
-        <li>⚡ <b>Fun Fact:</b> <i>I think I am Funny (still waiting for peer review).</i></li>
+        <li>⚡ <b>Fun Fact:</b> <i>I think I am Funny.</i></li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -159,8 +159,8 @@
       <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="220" alt="Retro Pixel Arcade" />
     </td>
     <td width="65%" valign="middle">
-      <h4>🎮 Same-Page Mini-Game: "The 3 AM Production Bug"</h4>
-      <p><i>No external links! Click the choices below to play directly inside this README:</i></p>
+      <h4>🎮 Mini-Game: "The 3 AM Production Bug"</h4>
+      <p><i>Click the choices below to play directly inside this README:</i></p>
       <details>
         <summary><b>🪙 [INSERT COIN] — Click Here to Start Game</b></summary>
         <br/>
