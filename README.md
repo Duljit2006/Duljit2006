@@ -1,9 +1,11 @@
-<!-- RELIABLE HEADER SECTION (Zero Flaky External Banner Servers!) -->
+<!-- HEADER BANNER (Extracted Directly from Your Pinterest Link!) -->
 <div align="center">
+  <img src="https://i.pinimg.com/originals/9f/f7/36/9ff7366a2f9c949a0db46b03c30d19f7.jpg" width="100%" alt="Header Banner" />
+
   <h1>Hi 👋, I'm Duljit Lalung!</h1>
   <h3>🚀 Full Stack & App Developer &nbsp;|&nbsp; 🧠 Machine Learning &nbsp;|&nbsp; 🌐 Community Lead</h3>
 
-  <!-- HIGHLIGHT & SOCIAL BADGES (100% Uptime Shields.io) -->
+  <!-- HIGHLIGHT & SOCIAL BADGES -->
   <p align="center">
     <img src="https://img.shields.io/badge/GDGoC_Gauhati_University-Campus_Organizer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDGoC Organizer" />
     <a href="https://linkedin.com/in/duljit-lalung-8b8a51411" target="_blank">
@@ -40,7 +42,6 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- ANIME LOFI CODING GIF -->
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Anime Lo-Fi Coding" />
       <p align="center"><sub><i>☕ Late night lo-fi & code compilation sessions</i></sub></p>
     </td>
@@ -126,7 +127,18 @@
 
 <hr/>
 
-<!-- ARCADE ZONE: CONTRIBUTION SNAKE + SAME-PAGE INTERACTIVE MINI GAME -->
+<!-- GITHUB STATS & ANALYTICS -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=duljit2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=duljit2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=duljit2006&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<hr/>
+
+<!-- ARCADE ZONE: AT THE VERY BOTTOM -->
 <h2 align="center">🕹️ Interactive Arcade & Contribution Zone</h2>
 
 <!-- 1. AUTOMATED SNAKE EATING CONTRIBUTION GRAPH -->
@@ -140,7 +152,7 @@
 
 <br/>
 
-<!-- 2. PLAYABLE ON-PAGE INTERACTIVE MINI-GAME (Plays 100% on the Same Page!) -->
+<!-- 2. PLAYABLE ON-PAGE INTERACTIVE MINI-GAME -->
 <table width="100%">
   <tr>
     <td width="35%" align="center" valign="middle">
@@ -178,14 +190,3 @@
     </td>
   </tr>
 </table>
-
-<hr/>
-
-<!-- GITHUB STATS & ANALYTICS (Using Only the Server Verified Working in Your Screenshot!) -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=duljit2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=duljit2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=duljit2006&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
