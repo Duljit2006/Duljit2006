@@ -1,15 +1,9 @@
-<!-- HEADER BANNER -->
+<!-- RELIABLE HEADER SECTION (Zero Flaky External Banner Servers!) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=220&section=header&text=Hi%20👋,%20I'm%20DULJIT!&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%26%20App%20Developer%20%7C%20Machine%20Learning%20%7C%20Community%20Lead&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+  <h1>Hi 👋, I'm Duljit Lalung!</h1>
+  <h3>🚀 Full Stack & App Developer &nbsp;|&nbsp; 🧠 Machine Learning &nbsp;|&nbsp; 🌐 Community Lead</h3>
 
-  <!-- ANIMATED TYPING SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines= Campus+Organizer+%40+GDGoC+Gauhati+University+%F0%9F%9A%80;Building+Full+Stack+Web+%26+Cross-Platform+Apps+%F0%9F%92%BB;Exploring+Graph+Neural+Networks+%26+Computer+Vision+%F0%9F%A7%A0;Tinkering+with+Hardware%2C+IoT+%26+3D+Design+%F0%9F%A4%96" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- HIGHLIGHT & SOCIAL BADGES -->
+  <!-- HIGHLIGHT & SOCIAL BADGES (100% Uptime Shields.io) -->
   <p align="center">
     <img src="https://img.shields.io/badge/GDGoC_Gauhati_University-Campus_Organizer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="GDGoC Organizer" />
     <a href="https://linkedin.com/in/duljit-lalung-8b8a51411" target="_blank">
@@ -19,14 +13,22 @@
       <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
+
+  <!-- ROLE TAGS -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Focus-Graph_Neural_Networks_(GNN)-A78BFA?style=flat-square" />
+    <img src="https://img.shields.io/badge/Domain-Digital_Image_Processing-38BDF8?style=flat-square" />
+    <img src="https://img.shields.io/badge/Hardware-ESP32_%26_Robotics-34D399?style=flat-square" />
+    <img src="https://img.shields.io/badge/Creative-Blender_3D_%26_UI/UX-F472B6?style=flat-square" />
+  </p>
 </div>
 
 <hr/>
 
-<!-- SIDE-BY-SIDE ABOUT ME & LOFI ANIME GIF -->
-<table border="0" width="100%">
+<!-- SIDE-BY-SIDE ABOUT ME & ANIME CODING GIF -->
+<table width="100%">
   <tr>
-    <td width="58%" valign="middle">
+    <td width="60%" valign="middle">
       <h3>✨ About Me</h3>
       <ul>
         <li>🏛️ <b>Leadership:</b> Serving as the <b>Campus Organizer for Google Developer Groups on Campus (GDGoC)</b> at <b>Gauhati University</b>.</li>
@@ -37,10 +39,10 @@
         <li>⚡ <b>Fun Fact:</b> <i>I think I am Funny (still waiting for peer review).</i></li>
       </ul>
     </td>
-    <td width="42%" align="center" valign="middle">
-      <!-- LOFI ANIME CODING GIF -->
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius: 12px;" alt="Lo-Fi Anime Coding Aesthetic" />
-      <sub align="center"><i>☕ Late night lo-fi & code compilation sessions</i></sub>
+    <td width="40%" align="center" valign="middle">
+      <!-- ANIME LOFI CODING GIF -->
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Anime Lo-Fi Coding" />
+      <p align="center"><sub><i>☕ Late night lo-fi & code compilation sessions</i></sub></p>
     </td>
   </tr>
 </table>
@@ -49,16 +51,14 @@
 
 <!-- ALWAYS-VISIBLE + INTERACTIVE TECH ARSENAL -->
 <h2 align="center">🛠️ Tech Arsenal & Tools</h2>
-<p align="center"><i>All icons are live & clickable. Click the interactive toggles below each category to inspect my workflow!</i></p>
+<p align="center"><i>All icons are visible at a glance. Click the interactive toggles below each category to inspect my workflow!</i></p>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4 align="center">🌐 Full-Stack Web & Cross-Platform App</h4>
       <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,nestjs,django,flutter,dart,androidstudio&perline=8" alt="Web and App Stack" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,nestjs,django,flutter,dart,androidstudio&perline=8" alt="Web and App Stack" />
       </p>
       <details>
         <summary><b>⚡ Click to inspect Web & Mobile workflow</b></summary>
@@ -73,10 +73,8 @@
     <td width="50%" valign="top">
       <h4 align="center">🧠 Machine Learning, Data & Vision</h4>
       <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,matlab,c,cpp&perline=8" alt="ML and Vision Stack" />
-        </a>
-        <br/>
+        <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,matlab,c,cpp&perline=8" alt="ML and Vision Stack" />
+        <br/><br/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
         <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/GNN-Graph_Neural_Nets-FF6F00?style=flat-square" />
@@ -96,9 +94,7 @@
     <td width="50%" valign="top">
       <h4 align="center">☁️ Cloud, Databases & Hardware</h4>
       <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,gcp,aws,docker,linux,git,arduino&perline=8" alt="Cloud DB and Hardware" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,gcp,aws,docker,linux,git,arduino&perline=8" alt="Cloud DB and Hardware" />
       </p>
       <details>
         <summary><b>⚡ Click to inspect Infrastructure & IoT workflow</b></summary>
@@ -106,16 +102,14 @@
         <ul>
           <li><b>Databases:</b> MongoDB, MySQL, Oracle, Firebase</li>
           <li><b>Cloud & DevOps:</b> Google Cloud Platform (GCP), AWS, Docker, Linux, Git</li>
-          <li><b>Embedded & IoT:</b> Arduino, C/C++ Microcontroller Programming</li>
+          <li><b>Embedded & IoT:</b> Arduino, ESP32, C/C++ Microcontroller Programming</li>
         </ul>
       </details>
     </td>
     <td width="50%" valign="top">
       <h4 align="center">🎨 3D Modeling, UI/UX & Creative Suite</h4>
       <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=blender,figma,ps,ai&perline=8" alt="Creative Stack" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=blender,figma,ps,ai&perline=8" alt="Creative Stack" />
       </p>
       <details>
         <summary><b>⚡ Click to inspect Design & 3D workflow</b></summary>
@@ -132,64 +126,66 @@
 
 <hr/>
 
-<!-- PLAYABLE RETRO ARCADE CORNER -->
-<div align="center">
-  <h2>🕹️ Duljit's Retro Arcade Corner</h2>
-  <p><i>Need a break from scrolling code? Pick a cartridge below to launch a live playable game right in your browser!</i></p>
+<!-- ARCADE ZONE: CONTRIBUTION SNAKE + SAME-PAGE INTERACTIVE MINI GAME -->
+<h2 align="center">🕹️ Interactive Arcade & Contribution Zone</h2>
 
-  <table border="0" width="85%">
-    <tr>
-      <td align="center" width="35%">
-        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" style="border-radius: 10px;" alt="Arcade Pixel Art" />
-      </td>
-      <td align="center" width="65%">
-        <h4>🪙 INSERT COIN TO PLAY LIVE</h4>
-        <p>
-          <a href="https://freepacman.org/" target="_blank">
-            <img src="https://img.shields.io/badge/🕹️_PLAY_PAC--MAN-INSERT_COIN-FFD700?style=for-the-badge&labelColor=000000" alt="Play Pac-Man" />
-          </a>
-        </p>
-        <p>
-          <a href="https://chvin.github.io/react-tetris/?lan=en" target="_blank">
-            <img src="https://img.shields.io/badge/🧱_PLAY_RETRO_TETRIS-START_GAME-FF0055?style=for-the-badge&labelColor=000000" alt="Play Tetris" />
-          </a>
-        </p>
-        <p>
-          <a href="https://hextris.io/" target="_blank">
-            <img src="https://img.shields.io/badge/⬢_PLAY_HEXTRIS-LAUNCH_ARCADE-00F0FF?style=for-the-badge&labelColor=000000" alt="Play Hextris" />
-          </a>
-        </p>
-        <details>
-          <summary><b>🎮 Secret Cheat Code (Click to Unlock)</b></summary>
-          <p><code>⬆️ ⬆️ ⬇️ ⬇️ ⬅️ ➡️ ⬅️ ➡️ B A START</code> — <i>+100 Debugging Speed granted for your next commit!</i></p>
-        </details>
-      </td>
-    </tr>
-  </table>
+<!-- 1. AUTOMATED SNAKE EATING CONTRIBUTION GRAPH -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Duljit2006/Duljit2006/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Duljit2006/Duljit2006/output/github-contribution-grid-snake.svg" />
+    <img alt="Run the Generate Snake Animation Action in your Actions tab to display your live Contribution Snake here!" src="https://raw.githubusercontent.com/Duljit2006/Duljit2006/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
+
+<br/>
+
+<!-- 2. PLAYABLE ON-PAGE INTERACTIVE MINI-GAME (Plays 100% on the Same Page!) -->
+<table width="100%">
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="220" alt="Retro Pixel Arcade" />
+    </td>
+    <td width="65%" valign="middle">
+      <h4>🎮 Same-Page Mini-Game: "The 3 AM Production Bug"</h4>
+      <p><i>No external links! Click the choices below to play directly inside this README:</i></p>
+      <details>
+        <summary><b>🪙 [INSERT COIN] — Click Here to Start Game</b></summary>
+        <br/>
+        <blockquote>
+          🚨 <b>STAGE 1:</b> It's 3:00 AM. Your GNN image compression model is at 99% accuracy, but the server fans suddenly sound like a jet engine! What is your move?
+        </blockquote>
+        <details>
+          <summary>👉 <b>Option A:</b> Pour iced coffee on the motherboard to cool it down</summary>
+          <p>💥 <b>GAME OVER!</b> The server sparked into a miniature fireworks show. At least the lab smells like espresso. <i>(Click Option B above to retry!)</i></p>
+        </details>
+        <details>
+          <summary>👉 <b>Option B:</b> SSH into the machine and optimize the batch size</summary>
+          <br/>
+          <blockquote>
+            ✅ <b>CRITICAL HIT!</b> GPU temps drop to 65°C. Suddenly, a wild <code>CUDA Out of Memory</code> boss appears right before the final epoch! Choose your attack:
+          </blockquote>
+          <details>
+            <summary>⚔️ <b>Attack 1:</b> Enable Mixed Precision (FP16) & Clear Cache</summary>
+            <p>🏆 <b>YOU WIN! HIGH SCORE: 99,999 PTS!</b> The model finishes training with zero loss, pushes the weights to GitHub, and you finally get to sleep!</p>
+          </details>
+          <details>
+            <summary>⚔️ <b>Attack 2:</b> Download more RAM from a sketchy website</summary>
+            <p>👾 <b>GAME OVER!</b> Your terminal is now overrun by dancing pixel-art mascots. <i>(Click Attack 1 above to win!)</i></p>
+          </details>
+        </details>
+      </details>
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
-<!-- GITHUB STATS & TROPHIES -->
-<h2 align="center">📊 GitHub Analytics & Trophies</h2>
+<!-- GITHUB STATS & ANALYTICS (Using Only the Server Verified Working in Your Screenshot!) -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <!-- TROPHIES (With Cache-Buster & Dark Theme) -->
-  <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=Duljit2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&v=2" width="100%" alt="Duljit2006 Trophies" />
-    </a>
-  </p>
-
-  <!-- STATS & STREAK SIDE BY SIDE -->
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=duljit2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Duljit's GitHub Stats" />
-  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=duljit2006&theme=tokyonight&hide_border=true" alt="Duljit's GitHub Streak" />
-
-  <br/>
-
-  <!-- TOP LANGUAGES -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=duljit2006&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Duljit's Top Languages" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=duljit2006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=duljit2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=duljit2006&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=110&section=footer" width="100%" alt="Footer Wave" />
