@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm DULJIT!</h1>
 <h3 align="center">A passionate Full Stack Web and App Developer || Machine Learning Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Duljit2006" alt="Duljit2006" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duljit2006" alt="duljit2006" /></a> </p>
+
 - 🔭 I’m currently working on **a GNN based image compression Technology**
 
 - 🌱 I’m currently learning **GNN and Image Processing**
