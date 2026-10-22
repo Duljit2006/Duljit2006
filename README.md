@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/9f/f7/36/9ff7366a2f9c949a0db46b03c30d19f7.jpg" width="100%" alt="Header Banner" />
 
-  <h1>Hi 👋, I'm Duljit Lalung!</h1>
+  <h1>Hi 👋, I'm Duljit!</h1>
   <h3>🚀 Full Stack & App Developer &nbsp;|&nbsp; 🧠 Machine Learning &nbsp;|&nbsp; 🌐 Community Lead</h3>
 
   <!-- HIGHLIGHT & SOCIAL BADGES -->
